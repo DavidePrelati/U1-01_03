@@ -1,0 +1,80 @@
+h3 {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #25a2c3;
+}
+
+main .article1 img {
+    border-radius: 50%;
+}
+
+main .article1 .rect-div1 {
+    width: 350px;
+    height: auto;
+    border: 1px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+main .article1 .rect-div1 p {
+    width: 350px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+main aside .div-aside {
+    background-color: red;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
+main aside .div-aside h2 {
+    font-size: 30px;
+    font-weight: 700;
+    height: auto;
+
+    padding-bottom: 20px;
+    margin: 0px;
+
+
+}
+
+main aside .div-aside p {
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin: 0px;
+
+
+}
+
+main .article2 .rect-div1 {
+    width: 350px;
+    height: auto;
+    border: 1px solid lightgrey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+main .article2 .rect-div1 p {
+    width: 350px;
+    height: auto;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
