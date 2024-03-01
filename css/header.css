@@ -9,9 +9,10 @@ body {
     margin-right: auto;
 }
 
+/* Problema nel mettere la foto come sfondo per farla vedere tutta*/
 header>.div-himg {
     background-color: black;
-    text-align: center;
+    font-size: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
@@ -20,7 +21,6 @@ header>.div-himg {
 
 header .div-header {
     background-image: url(../images/banner.jpg);
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
     padding-top: 40px;
